@@ -3,6 +3,10 @@ layout: page
 title: Lectures
 ---
 
+<p class="message" align="right">
+  <i>Note: This schedule is in flux at the moment! </i>
+</p>
+
 
 <style>
 .lecture tr td:first-child {
