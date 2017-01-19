@@ -18,6 +18,7 @@ Here is what you have to do:
 2. To access a specific homework, clone the repository, doing `git clone git@dsvm01.cs.columbia.edu:your-uni-hw-number`, for instance, my UNI is ml3302 so I would type `git clonegit@dsvm01.cs.columbia.edu:ml3302-hw2` for homework 2.
 3. The assignment skeleton will be in the master branch.
 
+<!--
 ## Homework Submission
 
 1. To submit, just push your work to master. We will grade the most recent
@@ -37,8 +38,8 @@ The rest of the procedure is the same as if you were developing locally. Note th
 
 ## Attention
 Make sure that you are working on the correct branch, so when we check the code out from your repository, it is contains the file that you have been working on.
+-->
 
-______
 
 [1]: http://git-scm.com/book
 [2]: http://try.github.io
