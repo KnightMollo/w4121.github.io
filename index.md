@@ -26,7 +26,7 @@ TAs
 
 Lectures
 
-* Weds, 6-8:30PM 420 Pupin
+* Weds, 6-8:30PM 428 Pupin Laboratories
 
 Communication
 
