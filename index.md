@@ -15,8 +15,9 @@ of the semester, so check again soon. </i>
 Instructors
 
 * Sambit Sahu
+  * OH by appointment
 * [Eugene Wu](http://www.eugenewu.net)
-* OH by appointment
+  * Webs 4-5PM in 421 Mudd
 
 
 TAs
