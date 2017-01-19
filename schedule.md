@@ -19,7 +19,7 @@ title: Lectures
 
 {: .table  .lecture :}
 |        |  Title   |  Description | Instructor |
-| Week 1 |  Introduction   |  Why not single machine? Big-data challenges, datacenter structure, typical use cases and their requirements. Course overview. | All
+| Week 1 |  [Introduction](./lectures/lec1.pdf)   |  Why not single machine? Big-data challenges, datacenter structure, typical use cases and their requirements. Course overview. | All
 | Week 2 |  Batch Processing |  MapReduce: architecture, components, programming model. | Sahu
 | Week 3 |  Batch Processing (cont) | Storage side: HDFS, HBASE.  | Sahu
 | Week 4 |  Iterative Processing |  Spark, RDD abstractions for in-memory computation; Spark Tachyon, a memory-centric distributed file system. | Sahu
