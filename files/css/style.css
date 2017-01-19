@@ -251,31 +251,31 @@ img {
   font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype');
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://themes.googleusercontent.com/static/fonts/lato/v6/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Magra';
   font-style: normal;
   font-weight: 400;
-  src: local('Magra'), url(http://themes.googleusercontent.com/static/fonts/magra/v1/9Un71ABfeNOHeQITcqWzew.ttf) format('truetype');
+  src: local('Magra'), url(https://themes.googleusercontent.com/static/fonts/magra/v1/9Un71ABfeNOHeQITcqWzew.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Noto Serif';
   font-style: normal;
   font-weight: 400;
-  src: local('Noto Serif'), local('NotoSerif'), url(http://themes.googleusercontent.com/static/fonts/notoserif/v1/eCpfeMZI7q4jLksXVRWPQy3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+  src: local('Noto Serif'), local('NotoSerif'), url(https://themes.googleusercontent.com/static/fonts/notoserif/v1/eCpfeMZI7q4jLksXVRWPQy3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 300;
-  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
 }
 
 @font-face {
