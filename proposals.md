@@ -10,7 +10,7 @@ You may replace up to 3 assignments with a semester long project (depending on t
 
 <style>
 .project tr td:first-child {
-  width: 15%;
+  width: 25%;
   font-weight: bold;
 }
 .project tr td:nth-child(2) {
@@ -48,7 +48,7 @@ It is _highly recommended_ that you come to office hours to discuss project idea
 **Submission**
 
 1. Rename the filename of your prospectus to the following format, last names should be in alphabetical order. `prospectus_<lastname1>_<lastname2>.._<lastnameN>.pdf`
-2. [Upload the file by 2/8 11:59PM EST](https://www.dropbox.com/request/NT8wHw3Wjs98fFxeKR9G)
+2. [Upload the file by 2/8 11:59PM EST](https://www.dropbox.com/request/S2CjCGjM039fviYHb1xQ)
 
 #### Poster Session (optional)
 

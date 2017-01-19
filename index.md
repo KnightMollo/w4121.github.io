@@ -49,7 +49,7 @@ A [project](./proposals) can be done in lieu of 3 assignments
 
 ## Prerequisites:
 
-* Java/Python programming (TBD which specific language is required)
+* Java/Scala/Python programming.  Python is required, Scala will make the spark assignments easier.
 
 ## Textbooks
 
