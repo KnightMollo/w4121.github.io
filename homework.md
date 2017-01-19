@@ -9,14 +9,17 @@ If you are using git for the first time, you can use [Github's tutorial][2] to l
 **A fun fact** : Git is actually not that mysterious as many people might think, it's just a key value store (Dictionary, Hashmap) that does a bit smart calculation. Key is usually the SHA1 of your file, and value the content. Pro Git provides a chapter on demystifying Git.
 
 ## Git Repositories for Homework
+
 You will use git a git server on dsvm01.cs.columbia.edu, both to clone the homeworks and to submit your work.
 Here is what you have to do:
+
 1. To get access to the homework, you need to email a plublic key (the .pub),
    named your-uni.pub, to the TA. To generate a public key if you don't have one, run `ssh-keygen -t rsa`. You don't have to put a password.
 2. To access a specific homework, clone the repository, doing `git clone git@dsvm01.cs.columbia.edu:your-uni-hw-number`, for instance, my UNI is ml3302 so I would type `git clonegit@dsvm01.cs.columbia.edu:ml3302-hw2` for homework 2.
 3. The assignment skeleton will be in the master branch.
 
 ## Homework Submission
+
 1. To submit, just push your work to master. We will grade the most recent
    version in the master branch.
 2. Submit your homework **before the deadline**. We will block commits after the
