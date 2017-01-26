@@ -45,9 +45,15 @@ The grading formula is:
 * 85%: Homework
 * 15%: Class participation (ask/answer questions)
 
-A [project](./proposals) can be done in lieu of 3 assignments
+A [project](./proposals) can be done in lieu of 3 assignments.  If you do both the project and all assignments, then project is treated as 
+extra credit equivalent to three assignments.  Extra credit is added _after_ any curves, so it does not hurt any students that choose to not
+do the project.
 
 * Project teams due Sunday 1/29 11:59PM EST.  [Click here to submit your team](https://goo.gl/forms/qhXGFYPDPnHzjpDE2)
+* [Prospectus](./proposals) is due 2/8 11:59PM EST
+* Poster session is 5/3 2-4PM, location TBD
+* [Report](./proposals) due 5/5 11:59PM EST
+* See description page for project ideas.
 
 ## Prerequisites:
 
