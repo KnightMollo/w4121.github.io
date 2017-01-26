@@ -47,6 +47,8 @@ The grading formula is:
 
 A [project](./proposals) can be done in lieu of 3 assignments
 
+* Project teams due Sunday 1/29 11:59PM EST.  [Click here to submit your team](https://goo.gl/forms/qhXGFYPDPnHzjpDE2)
+
 ## Prerequisites:
 
 * Java/Scala/Python programming.  Python is required, Scala will make the spark assignments easier.

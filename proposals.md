@@ -20,7 +20,7 @@ You may replace up to 3 assignments with a semester long project (depending on t
 
 
 {: .table .project :}
-| Project Teams |   1/25 |  -  |
+| Project Teams |   1/29 |  -  |
 | Prospectus    |   2/8 |  25% |
 | Participate in [E6998.003](http://columbiaviz.github.io) Poster Session (optional) |  5/3 |  |
 | Report         | 5/5 |   75% |
@@ -30,7 +30,9 @@ Teams should consist of 1-3 people. In addition, if you have a project in mind, 
 
 **Submission**
 
-* In class, please hand in one sheet of paper with UNIs, names, and project idea.  One page per team. 
+* [Fill out this google form](https://goo.gl/forms/qhXGFYPDPnHzjpDE2)
+
+
 
 #### Prospectus
 
