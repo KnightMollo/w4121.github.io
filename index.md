@@ -42,10 +42,10 @@ Sahu will teach fundamental concepts of distributed systems, along with the trad
 
 The grading formula is:
 
-* 85%: Homework
+* 85%: 5 homeworks
 * 15%: Class participation (ask/answer questions)
 
-A [project](./proposals) can be done in lieu of 3 assignments.  If you do both the project and all assignments, then project is treated as 
+A [project](./proposals) can be done in lieu of any 3 assignments.  If you do both the project and all assignments, then project is treated as 
 extra credit equivalent to three assignments.  Extra credit is added _after_ any curves, so it does not hurt any students that choose to not
 do the project.
 
