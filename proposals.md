@@ -26,7 +26,7 @@ You may replace up to 3 assignments with a semester long project (depending on t
 | Report         | 5/5 |   75% |
 
 #### Project Teams
-Teams should consist of 1-3 people. In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. 
+Teams should consist of 1-4 people (strongly recommend 2 or 3). In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. 
 
 **Submission**
 
