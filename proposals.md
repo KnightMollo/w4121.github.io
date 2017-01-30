@@ -86,7 +86,7 @@ The following are examples of possible projects -- they are by no means a comple
 
 ### More Well-defined Projects
 
-The steps to complete the following projects are relatively well-defined.  They all can contribute to publications (depending on the quality), _but do not need to be published_ to do well in the class.
+The steps to complete the following projects are relatively well-defined.  All of them have the potential to be publishable work. Your report _does not need to be published_ to do well in the class.
 
 Does chat-based querying actually work?
 
