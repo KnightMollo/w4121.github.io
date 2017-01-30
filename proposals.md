@@ -84,23 +84,27 @@ The following are examples of possible projects -- they are by no means a comple
 4. End-to-end system: identify a new modality or new exploration approach for a particular domain and build a prototype that a normal person could use.
 
 
-### More Well-defined (Easier) Projects
+### More Well-defined Projects
+
+The steps to complete the following projects are relatively well-defined.  They all can contribute to publications (depending on the quality), _but do not need to be published_ to do well in the class.
 
 Does chat-based querying actually work?
 
 * Implement or get the code to run a couple of chat-based querying papers.  
 * Perform user studies to see if they actually work.
-* (can collaborate with other groups to evaluate different systems)
+* (can collaborate with other groups to evaluate different systems, could turn into publication)
 
 Be Relatable:
 
-* Presenting query results via analogy: given a [knowledge base](https://en.wikipedia.org/wiki/Knowledge_Graph), facts that the user has accessed (assumed), and a database query, recontextualize it relative to facts the user understands.  Think of it as a more powerful version of [this](https://idl.cs.washington.edu/papers/spatial-analogies).
+* Presenting query results via analogy: given a [knowledge base](https://en.wikipedia.org/wiki/Knowledge_Graph), facts that the user has accessed (assumed), and a database query, recontextualize it relative to facts the user understands.  
+  * Think of it as a more powerful version of [this](https://idl.cs.washington.edu/papers/spatial-analogies).
 
 PDFs + tables
 
 * Public datasets (UCI ML data, government datasets) often accompanied by description files that describe the attributes and the contents.
 * identify the segments in the description files that relate to attributes in the dataset
-* Make it work for some domains
+* Make it work for some simple domains (datasets)
+* (this is of practical value)
 
 Implement Innochat
 
@@ -112,7 +116,8 @@ Query The Web
 
 Which Optimization Makes Sense?
 
-* it's currently unclear whether  sampling or data cubes or other optimizations are the most appropriate for any given visualization + interaction.  Run studies to better understand the trade-offs.
+* It's currently unclear whether  sampling or data cubes or other optimizations are the most appropriate for any given visualization + interaction.  Run studies to better understand the trade-offs.
+* Bonus: use trade-offs to recommend optimizations for new interactive visualizations.
 
 Run some perceptual studies:
 
