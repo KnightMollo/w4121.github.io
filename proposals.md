@@ -84,7 +84,7 @@ The following are examples of possible projects -- they are by no means a comple
 4. End-to-end system: identify a new modality or new exploration approach for a particular domain and build a prototype that a normal person could use.
 
 
-### Easier Projects
+### More Well-defined (Easier) Projects
 
 Does chat-based querying actually work?
 
