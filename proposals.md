@@ -52,6 +52,7 @@ It is _highly recommended_ that you come to office hours to discuss project idea
 1. Rename the filename of your prospectus to the following format, last names should be in alphabetical order. `prospectus_<lastname1>_<lastname2>.._<lastnameN>.pdf`
 2. [Upload the file by 2/8 11:59PM EST](https://www.dropbox.com/request/S2CjCGjM039fviYHb1xQ)
 
+<a name="poster"></a>
 #### Poster Session (optional)
 
 You can optionally participate in [E6998.003's](http://columbiaviz.github.io) poster session.
@@ -59,6 +60,7 @@ Simply make a poster and present the project during the session.
 This gives you an opportunity to present a short demo of your work and show what you have accomplished in the class!
 
 
+<a name="report"></a>
 #### Report
 You will prepare a conference-style report on your project with **maximum length** of 15 pages (10 pt font or larger, one or two columns, 1 inch margins, single or double spaced -- more is not better.) Your report should expand upon your prospectus and introduce and motivate the problem your project addresses, describe related work in the area, discuss the elements of your solution, and present results that measure the behavior, performance, or functionality of your system (with comparisons to other related systems as appropriate.)
 

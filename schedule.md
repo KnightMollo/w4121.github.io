@@ -23,21 +23,23 @@ title: Lectures
 
 {: .table  .lecture :}
 |        |  Title   |  Description | Instructor |
-| Week 1 |  [Introduction](./lectures/lec1.pdf)   |  Why not single machine? Big-data challenges, datacenter structure, typical use cases and their requirements. Course overview. | All
-| Week 2 |  Basics |  HDFS, Hadoop basics  | Sahu
-| Week 3 |  Batch Processing | MapReduce | Sahu
-| Week 4 |  Batch Processing ctd |  Map Reduce additional details with more complex examples, HBase, Hive | Sahu
-| Week 5 |  Iterative Processing | Intro to Spark, Spark programming |   Sahu
-| Week 6 |  Data Models and Cleaning |  Why the relational data model? Why schemas? The ins and outs. | Wu
+| Week 1 1/18 |  [Introduction](./lectures/lec1.pdf)   |  Why not single machine? Big-data challenges, datacenter structure, typical use cases and their requirements. Course overview. | All
+| Week 2 1/25 |  Basics |  HDFS, Hadoop basics  | Sahu
+| Week 3 2/01 |  Batch Processing | MapReduce | Sahu
+| Week 4 2/08 |  Batch Processing ctd |  Map Reduce additional details with more complex examples, HBase, Hive | Sahu
+| Week 5 2/15 |  Iterative Processing | Intro to Spark, Spark programming |   Sahu
+| Week 6 2/22 |  Data Models and Cleaning |  Why the relational data model? Why schemas? The ins and outs. | Wu
 |        |                           |  Readings: [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf),  [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) |
-| Week 7 |  Cleaning and Integration  | Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf), [Data Wrangler](http://vis.stanford.edu/papers/wrangler) | Wu
-| Week 8 |  Classic Query Processing and Fast Query Processing  | Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf), [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) | Wu
-| Week 9 | Potourri  | Mixture of ideas: Graph analysis. Scalable visualization. Distributed transactions. | Wu
-| Week 10 |   | | Sahu
-| Week 11 |   | | Sahu
-| Week 12 |   | | Sahu 
-| Week 13 |   | | Sahu
-| Week 14 |   | | Sahu
+| Week 7 3/01 |  Cleaning and Integration  | Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf), [Data Wrangler](http://vis.stanford.edu/papers/wrangler) | Wu
+| Week 8 3/08 |  Classic Query Processing and Fast Query Processing  | Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf), [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) | Wu
+| Week 9 3/15 | NO CLASS.  Spring Break!
+| Week 10 3/22 |   | Potourri  | Mixture of ideas: Graph analysis. Scalable visualization. Distributed transactions. | Wu
+| Week 11 3/29 |   | | Sahu
+| Week 12 4/05 |   | | Sahu 
+| Week 13 4/12 |   | | Sahu
+| Week 14 4/19 |   | | Sahu
+| Week 15 4/26 |   | | Sahu
+| Week 16 5/03 | [Poster Presentation](./proposals#poster) + [Submit Writups](./proposals#report)  | | Sahu
 
 <!--
 | Week 11 |  Google's Storage Stack  | How core problems in distributed systems are solved in the real world. Design of Chubby, Bigtable, two fundamental components of a google cluster. High-level architecture of a Google cluster. | Sahu
