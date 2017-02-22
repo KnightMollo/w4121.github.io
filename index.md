@@ -38,6 +38,10 @@ An introduction to large-scale distributed systems with an emphasis on big-data 
 The course is co-taught by  Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). 
 Sahu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise, and various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed.  Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
 
+## Assignments
+
+* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  Due: March 1st, 11:59PM EST
+
 ## Grading
 
 The grading formula is:
