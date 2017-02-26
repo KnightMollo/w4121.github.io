@@ -40,7 +40,7 @@ Sahu will teach fundamental concepts of distributed systems, along with the trad
 
 ## Assignments
 
-* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  Due: March 1st, 11:59PM EST
+* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  Due: March 3rd, 11:59PM EST
 * Entity Resolution contest.  Tentatively out 3/1, Due: 3/20
 * Graph analysis (?).  Tentatively out 3/22, Due: 4/3
 
