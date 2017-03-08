@@ -22,7 +22,7 @@ Query compilation into plans
 Query Optimization 
 
 * Logical rewriting rules
-  * constant folding
+  * constant folding: (1+2+3) --> 6
   * operator pushdown
   * simple cardinality example for operator pushdown
   * Vacuum and explain
@@ -369,6 +369,52 @@ Where are the costs now?
 
 * Distributed transactions
 
+
+# Query Compilation
+
+How is a SQL query executed?
+
+* Tuples are (java) objects, accessing an attribute is a function call.  Everything is a fnuctino call
+  * inline: 8ms (0.65ns per call)
+  * direct: 68ms (5.53ns per call)
+  * virtual: 160ms (13ns per call)
+* Everything is interpreted
+  * SELECT count( * ) WHERE type = 100
+
+          def filterOp:
+            def next():
+              cur = child.next()
+              while cur == null || !predicate(cur):
+                cur = child.next()
+              return cur
+
+          def predicate(tuple, attr, ...):
+            return binaryOp("=", tuple.get(attr), ...)
+
+          def binaryOp(op, l, r):
+            if op == "=": return l == r
+            ...
+
+* Hand written code
+
+          v = 0
+          for type in sales
+            if type == 100
+              v++
+
+* Comparison
+  * Iterator: 13M rows/sec
+  * Handwritten: 125M rows/sec
+  * 10x
+          
+Why?
+
+* No virtual function dispatches
+* Intermediate data in memory vs CPU registers
+* Loop unrolling and SIMD
+
+[Spark blog post](https://databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html)
+
 # So what does this mean
 
 Modern databases contain multiple specialized databases
@@ -382,6 +428,7 @@ Modern databases contain multiple specialized databases
         (Spark
           (sparksql OLAP database)
           (spark graph))   --- Impala
+
 
 
 # Tiny bit of distributed transactions

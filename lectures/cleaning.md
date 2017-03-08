@@ -14,28 +14,47 @@ Data prep/cleaning/integration is hard.  Why?
 * consolidate sales, HR, products systems into a single reprresentation (global schema)
 * load into warehouse to generat CFO/marketing reports
 * Analysts run queries, learn customer preferences -- pet rocks are out, pogs are in
+  * know to buy pogs and discount pet rocks
   * what kinds of queries are these?
-* Pays for itself within a year: everyone gets in on this late 90s early 00s
+* Pays for itself within a year through better buying and stock rotation decisions: 
+  * everyone gets in on this late 90s early 00s
 * OK, everyone wants data in their "data warehouse", and industry grows around this need (ETL)
 * Does ETL work?
-  * Create global schema in advance (need to know what table you're dumping data into)
+  1. Create global schema in advance (need to know what table you're dumping data into)
     * Remember the pain of creating a single table's schema?
-  * Send programmer to each data source (often different groups or companies!) to manually write connectors
+  2. Send programmer to each data source (often different groups or companies!) to manually write connectors
     * everyone has their own "unique" data format: salary is in dollars vs pounds vs "wage".  Fixed vs per hour.
-  * write cleaning/transform scripts to convert before importing.  
+  3. write cleaning/transform scripts to convert before importing.  
 * Scalability limitations (human scalability, not compute scalability) (crowdsourcing)
-  * Defining a global schema can take years -- by then, 2 years out of date
+  1. Defining a global schema can take years -- by then, 2 years out of date
     * will never work unless schema stops changing. (is this realistic?) 
-  * Programmer per data source hard to scale.  
+  2. Programmer per data source hard to scale.  
     * who does this job??
-    * fundamentally hard -- easy to underestimate data dirtiness
-      * ~10% of your data is incorrect
+  3. fundamentally hard -- easy to underestimate data dirtiness
+    * rule of thumb: ~10% of your data is incorrect
       * nicknames, codes, stale addresses (out of date), nulls, inconsistencies due to redundancy in schema design
-      * dedup is contextual (contextual == hard)
-        * ewu == Eugene Wu the billionaire == eugene wu@columbia == eugene wu at UBC?
-        * Restaurants in a foodcourt vs restaurant that took over an old one vs a moving restaurant (how can a global schema anticipate all this)
+    * dedup is contextual (contextual == hard)
+      * ewu == Eugene Wu the billionaire == eugene wu@columbia == eugene wu at UBC?
+      * Restaurants may have same address: but be in a foodcourt vs restaurant that took over an old one vs a moving restaurant (how can a global schema anticipate all this)
+* Result? warehousing projects in 1990’s factor of two over budget and a factor of two late
 * Still, fundamentally a win, so all CEOs want to add data sources
   * avg large enterprise has 5k data stores, only handful in warehouse
+
+Beer vignette
+
+         He had a typical data warehouse of sales of his products
+         by brand, by distributor, by time period, etc. I told the
+         analysts that El Nino was widely predicted to occur that
+         winter and it would be wetter than normal on the west coast
+         and warmer than normal in the Northeast. I then asked if
+         beer sales are correlated to temperature or precipitation.
+         They replied “I wish we could answer that question, but
+         weather data is not in our warehouse”. Supporting data
+         source scalability is very difficult using ETL technology.
+
+But why not mandate a common schema?  That should be easy to do
+
+* 2000s.  called Master data management
 
 Mike's informix story
 
