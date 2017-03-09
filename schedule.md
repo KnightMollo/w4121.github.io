@@ -31,7 +31,7 @@ title: Lectures
 | Week 6 2/22 |  Data Models and Cleaning |  Why the relational data model? Why schemas? The ins and outs. | Wu
 |        |                           |  Readings: [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf), <br/> [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) |
 | Week 7 3/01 |  Cleaning and Integration  | Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf), <br/> [Data Wrangler](http://vis.stanford.edu/papers/wrangler) | Wu
-| Week 8 3/08 |  Classic Query Processing and Fast Query Processing  | Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf), <br/> [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), <br/> [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) | Wu
+| Week 8 3/08 |  [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer)  | Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf), <br/> [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), <br/> [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) | Wu
 | Week 9 3/15 | NO CLASS.  Spring Break!
 | Week 10 3/22 | Potourri  | Mixture of ideas: Graph analysis. Scalable visualization. Distributed transactions. | Wu
 | Week 11 3/29 |   | | Sahu
