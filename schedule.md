@@ -33,7 +33,8 @@ title: Lectures
 | Week 7 3/01 |  Cleaning and Integration  | Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf), <br/> [Data Wrangler](http://vis.stanford.edu/papers/wrangler) | Wu
 | Week 8 3/08 |  [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer)  | Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf), <br/> [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), <br/> [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) | Wu
 | Week 9 3/15 | NO CLASS.  Spring Break!
-| Week 10 3/22 | Potourri  | Mixture of ideas: Graph analysis. Scalable visualization. Distributed transactions. | Wu
+| Week 10 3/22 | Potourri  | Mixture of ideas: Graph analysis. Scalable visualization. ML. Distributed transactions. | Wu
+|        |                           |  Readings: [ML in DBs](http://vldb.org/pvldb/vol5/p1700_joehellerstein_vldb2012.pdf), <br/> [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)<br/>[Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) |
 | Week 11 3/29 |   | | Sahu
 | Week 12 4/05 |   | | Sahu 
 | Week 13 4/12 |   | | Sahu
