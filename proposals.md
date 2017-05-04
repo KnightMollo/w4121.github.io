@@ -23,7 +23,7 @@ You may replace up to 3 assignments with a semester long project (depending on t
 | Project Teams |   1/29 |  -  |
 | Prospectus    |   2/8 |  25% |
 | Participate in [E6998.003](http://columbiaviz.github.io) Poster Session (optional) |  5/3 |  |
-| Report         | 5/5 |   75% |
+| Report         | 5/5 (extended to 5/8 midnight) |   75% |
 
 #### Project Teams
 Teams should consist of 1-4 people (strongly recommend 2 or 3). In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. 
@@ -71,6 +71,7 @@ Because this report is the primary deliverable upon which you will be graded, **
 **Submission**
 
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
+1. **Include your names and @columbia unis in the report**
 2. [Upload the file by 11:59PM EST](https://www.dropbox.com/request/S2CjCGjM039fviYHb1xQ)
 
 ## What is Expected
