@@ -1,84 +1,58 @@
 ---
-layout: page
+layout: index
 title: Overview
 ---
 
-<p class="message" align="right">
-  <i>Note: This entire website is still under construction.  Anything can change until the beginning
+<p class="message" align="center">
+  <i>Note: This entire website is still under construction. 
+  <br/>Anything can change until the beginning
 of the semester, so check again soon. </i>
 </p>
 
 
-
 ## Class Overview
-
-Instructors
-
-* Sambit Sahu
-  * OH by appointment
-* [Eugene Wu](http://www.eugenewu.net)
-  * Webs 4-5PM in 421 Mudd
-
-
-TAs
-
-* TBA
-
-Lectures
-
-* Weds, 6-8:30PM 428 Pupin Laboratories
-
-Communication
-
-* [Piazza](https://piazza.com/class/ivw3vig7hog5zc) is preferred.  Email staff with personal questions or see us in OH.
 
 
 An introduction to large-scale distributed systems with an emphasis on big-data processing and storage infrastructures. Topics include fundamental tradeoffs in distributed systems, techniques for exploiting parallelism, big-data computation and storage models, design and implementation of various well-known distributed systems infrastructures, and concrete exposure to programming big-data applications on top popular, open-source infrastructures for data processing and storage systems.  
 
-The course is co-taught by  Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). 
-Sahu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise, and various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed.  Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
-
-## Assignments
-
-* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  Due: March 3rd, 11:59PM EST
-* Entity Resolution contest.  Tentatively out 3/1, Due: 3/20
-* Graph analysis (?).  Tentatively out 3/22, Due: 4/3
-
-
-For assignments, you allowed 5 penalty free late days to use throughout the semester. One late day equals one 24 hour period after the due date of the assignment. Once you have used your late days, there will be a 20% penalty for each day an assignment is late. You do not need to explictly declare the use of late days; we will assign them to you in a way that is optimal for your grade when different assignments are worth different numbers of points. Late days may not be used for the final project.
+The course is co-taught by Roxana Geambasu (Assistant Prof. in CS), Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). Geambasu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise. Sahu will teach various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed. Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
 
 
 
-## Grading
-
-The grading formula is:
-
-* 85%: 5 homeworks
-* 15%: Class participation (ask/answer questions)
-
-A [project](./proposals) can be done in lieu of any 3 assignments.  If you do both the project and all assignments, then project is treated as 
-extra credit equivalent to three assignments.  Extra credit is added _after_ any curves, so it does not hurt any students that choose to not
-do the project.
-
-* Project teams due Sunday 1/29 11:59PM EST.  [Click here to submit your team](https://goo.gl/forms/qhXGFYPDPnHzjpDE2)
-* [Prospectus](./proposals) is due 2/8 11:59PM EST
-* Poster session is 5/3 2-4PM, location TBD
-* [Report](./proposals) due 5/5 11:59PM EST
-* See description page for project ideas.
-
-## Prerequisites:
-
-* Java/Scala/Python programming.  Python is required, Scala will make the spark assignments easier.
-
-## Textbooks
-
-We're recommending the following two reference texts, which cover some of the big-data technologies with which students will be interacting in the course:
-
-1. Learning Spark.
-Publisher: O'Reilly Media; 1 edition (February 27, 2015).  Language: English.  ISBN-10: 1449358624.
-ISBN-13: 978-1449358624.
-
-2. Advanced Analytics with Spark: Patterns for Learning from Data at Scale.
-Publisher: O'Reilly Media; 1 edition (April 20, 2015). Language: English. ISBN-10: 1491912766. ISBN-13: 978-1491912768.
 
 
+## Schedule
+
+* 1/16: [Introduction](./lectures/lec1.pdf)    (all)
+  * Why not single machine? 
+  * Big-data challenges, datacenter structure, typical use cases and their requirements. 
+  * Course overview. 
+* 1/23:  Data Models and Cleaning  (Wu)
+  * Why the relational data model? Why schemas? The ins and outs.
+  * Readings: [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf)     
+    [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) 
+* 1/30:  Cleaning and Integration (Wu)
+  * Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
+    [Data Wrangler](http://vis.stanford.edu/papers/wrangler) 
+* 2/06: [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer) (Wu)
+  * Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
+    [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), <br/> [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) 
+* 2/13: Potourri(Wu)
+  * Graph analysis/Scalable vis/ML 
+  * Readings: [ML](http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf) [in DBs](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)   
+    [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)      
+    [Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) 
+* 2/20:  
+* 2/27: 
+* 3/06: 
+* 3/13: NO CLASS.  Spring Break!
+* 3/20:
+* 3/27: 
+* 4/05: Basics (Sahu)
+  * HDFS, Hadoop basics 
+* 4/10: Batch Processing (Sahu)
+  * MapReduce: 
+* 4/17: Batch Processing (Sahu)
+  * Map Reduce additional details with more complex examples, HBase, Hive 
+* 4/24:  Iterative Processing  (Sahu)
+  * Intro to Spark, Spark programming 
