@@ -60,11 +60,10 @@ Because this report is the primary deliverable upon which you will be graded, **
 
 Good class projects can vary dramatically in complexity, scope, and topic. The only requirement is that they be related to something we have studied in this class and that they contain some element of research -- e.g., that you do more than simply engineer a piece of software that someone else has described or architected. To help you determine if your idea is of reasonable scope, we will arrange to meet with each group several times throughout the semester.
 
+## Project Suggestions
 
-## Some Project Ideas
 
-
-The following are examples of possible projects -- they are by no means a complete list and you are free to select your own projects.  In general, projects can be of three varieties:
+The following are examples of possible projects -- they are by no means a complete list and **you are free to select your own projects**.  In general, projects can be of three varieties:
 
 1. Research project: model an unsolved problem, propose algorithmic solution, evaluate and report findings.
 2. Win: pick an existing useful application and a well-recognized metric (latency, prediction, etc) and win against the state of the art.
@@ -72,18 +71,18 @@ The following are examples of possible projects -- they are by no means a comple
 
 #### Data Cleaning
 
-Understand how scientific articles use and talk about data 
+Understand how scientific articles use and talk about data.  Two possible directions:
 
-* Analyze how data is described
-  * [Viziometrics](http://viziometrics.org/api/) has a corpus of figures from pubMed articles, analyze the way papers describe and talk about the contents of figures.  Is there a universal set of ways that figures are described (e.g., in terms of comparisons? in relative terms? )
+* Analyze how data is talked about
+  * [Viziometrics](http://viziometrics.org/api/) has a corpus of figures from pubMed articles, analyze the way papers describe and talk about the contents of figures.  Is there a universal set of ways that figures are described (e.g., in terms of comparisons? in relative terms? ).  This can serve as the evidence for a new data analysis language.
   * fyi: Arxiv supports downloading raw tex files for many papers
-* Survey scientific journals for types of data cleaning applied
-  * Science/Nature/PubMed/ArxiV
-
+* Analyze how data is cleaned in practice
+  * Analyze the text of scientific journals (science/nature/pubmed/arxiv/biorxiv) to categorize and summarize types of data cleaning applied.
+  * or scrape and analyze code bases for cleaning operations
 
 <!--* **Will it Clean?** Even automatic error _detection_ is notoriously difficult due to the ambiguounotion of what "clean" means.  However in data science applications, the test data for the prediction model provides a crisp notion of "clean" and has been used in BoostClean to perform automatic error detection and cleaning.  BoostClean simply worked for simple static datasets: extend its ideas to streaming datasets where the errors may change over time.-->
 
-Arachnid is a new explanation engine that automatically generates cleaning programs based on user specifications of data quality.  It is an extension to ideas from [Scorpion](https://www.dropbox.com/s/1v6dcb16r840sdo/scorpion-vldb13.pdf?dl=0)  
+Arachnid is a new explanation engine that automatically generates cleaning programs based on user specifications of data quality.  It is an extension to ideas from [Scorpion](https://www.dropbox.com/s/1v6dcb16r840sdo/scorpion-vldb13.pdf?dl=0).  Contact Eugene for a copy of Arachnid.  Some possible projects:
 
 * Integrate Arachnid into an interactive data exploration interface in a way that the user can clean any part of a visualization without programming
 * Implement a fast version of Arachnid in the browser
