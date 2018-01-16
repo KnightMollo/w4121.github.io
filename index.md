@@ -3,23 +3,11 @@ layout: index
 title: Overview
 ---
 
-<p class="message" align="center">
-  <i>Note: This entire website is still under construction. 
-  <br/>Anything can change until the beginning
-of the semester, so check again soon. </i>
-</p>
-
-
 ## Class Overview
-
 
 An introduction to large-scale distributed systems with an emphasis on big-data processing and storage infrastructures. Topics include fundamental tradeoffs in distributed systems, techniques for exploiting parallelism, big-data computation and storage models, design and implementation of various well-known distributed systems infrastructures, and concrete exposure to programming big-data applications on top popular, open-source infrastructures for data processing and storage systems.  
 
-The course is co-taught by Roxana Geambasu (Assistant Prof. in CS), Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). Geambasu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise. Sahu will teach various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed. Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
-
-
-
-
+The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). Geambasu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise. Sahu will teach various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed. Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
 
 ## Schedule
 
@@ -54,12 +42,12 @@ The course is co-taught by Roxana Geambasu (Assistant Prof. in CS), Sambit Sahu 
 * 3/13: NO CLASS.  Spring Break!
 * 3/20: The design and implementation of a scalable, fault tolerant storage system: Google's Spanner (Geambasu)
   * Reading/video: [Spanner](https://research.google.com/archive/spanner.html)
-* 3/27: Midterm quiz
-* 4/05: Basics (Sahu)
-  * HDFS, Hadoop basics 
-* 4/10: Batch Processing (Sahu)
-  * MapReduce: 
-* 4/17: Batch Processing (Sahu)
+* 3/27: Distributed computing models (Sahu)
+  * HDFS, Hadoop basics
+* 4/05: Batch processing (Sahu)
+  * MapReduce
+* 4/10: Batch processing (Sahu)
   * Map Reduce additional details with more complex examples, HBase, Hive 
+* 4/17: FINAL QUIZ
 * 4/24:  Iterative Processing  (Sahu)
   * Intro to Spark, Spark programming 
