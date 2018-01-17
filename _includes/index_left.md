@@ -2,10 +2,10 @@
 
 * [Roxana Geambasu](https://roxanageambasu.github.io) (Instructor)   
   <small>OH by appointment</small>
-* [Eugene Wu](http://www.eugenewu.net) (Instructor)   
-  <small>TBD in 421 Mudd</small>
 * Sambit Sahu (Instructor)   
   <small>OH by appointment</small>
+* [Eugene Wu](http://www.eugenewu.net) (Instructor)   
+  <small>TBD in 421 Mudd</small>
 
 #### Information
 
