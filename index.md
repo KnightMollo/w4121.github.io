@@ -44,10 +44,16 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Reading/video: [Spanner](https://research.google.com/archive/spanner.html)
 * 3/27: Distributed computing models (Sahu)
   * HDFS, Hadoop basics
-* 4/05: Batch processing (Sahu)
-  * MapReduce
-* 4/10: Batch processing (Sahu)
-  * Map Reduce additional details with more complex examples, HBase, Hive 
+  * MapReuce Programming Model
+  * AWS EMR and MapReduce
+* 4/03: Batch processing (Sahu)
+  * MapReduce programming with more complex examples
+  * HBase, Hive 
+* 4/10: Iterative and Stream Processing  (Sahu)
+  * Intro to Spark, Big Data Architecture and Spark
+  * Spark programming
 * 4/17: FINAL QUIZ
-* 4/24:  Iterative Processing  (Sahu)
-  * Intro to Spark, Spark programming 
+* 4/24: Advanced Spark Programming (Sahu)
+  * Advanced Spark Programming
+  * SparkQL, Spark Streaming, Machine Learning with Spark
+  * End-to-end Intelligent System design with Spark
