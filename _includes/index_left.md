@@ -1,11 +1,11 @@
 #### Staff
 
-* Sambit Sahu (Instructor)   
-  <small>OH by appointment</small>
-* Roxana Geambasu (Instructor)   
+* [Roxana Geambasu](https://roxanageambasu.github.io) (Instructor)   
   <small>OH by appointment</small>
 * [Eugene Wu](http://www.eugenewu.net) (Instructor)   
   <small>TBD in 421 Mudd</small>
+* Sambit Sahu (Instructor)   
+  <small>OH by appointment</small>
 
 #### Information
 
@@ -35,9 +35,12 @@ See Courseworks.  See [assignment policies](./policies).  Assignments due 11:59P
 
 #### Grading
 
-* 5 homeworks: 85% 
-* Class participation: 15%
+* Homeworks: 60% 
+* Test/Quiz: 30%
+* Class participation: 10%
 * [Project](./project): 0-40% extra credit
+
+
 
 
 
