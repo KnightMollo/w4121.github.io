@@ -12,7 +12,7 @@
 * Tues, 7-9:30PM 
 * 309 Havemeyer Hall
 * [Policies](./policies)
-* [Piazza](https://piazza.com/class/ivw3vig7hog5zc)
+* [Piazza](https://piazza.com/class/jaoof456l5c4xm)
 * [Project](./project)
 
 
