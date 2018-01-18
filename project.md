@@ -35,7 +35,7 @@ Your prospectus should follow the example:
 **Submission**
 
 1. Rename the filename of your prospectus to the following format, last names should be in alphabetical order. `prospectus_<lastname1>_<lastname2>.._<lastnameN>.pdf`
-2. [Upload the file by 2/11 11:59PM EST](https://www.dropbox.com/request/Kmymco2V49BS3rSlWfls)
+2. [Upload the file by 2/11 11:59PM EST](https://www.dropbox.com/request/EGv97DnFIn52agyHYNVW)
 
 
 
@@ -54,7 +54,7 @@ Because this report is the primary deliverable upon which you will be graded, **
 **Submission**
 
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
-2. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/9zdikb92vHFFPYtaFF0e)
+2. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/96Slbbv9un54UW919ZYM)
 
 #### What is Expected
 
@@ -75,7 +75,7 @@ Understand how scientific articles use and talk about data.  Two possible direct
 
 * Analyze how data is talked about
   * [Viziometrics](http://viziometrics.org/api/) has a corpus of figures from pubMed articles, analyze the way papers describe and talk about the contents of figures.  Is there a universal set of ways that figures are described (e.g., in terms of comparisons? in relative terms? ).  This can serve as the evidence for a new data analysis language.
-  * fyi: Arxiv supports downloading raw tex files for many papers
+  * We can help get access to a corpus of ArXiV papers and their LateX files
 * Analyze how data is cleaned in practice
   * Analyze the text of scientific journals (science/nature/pubmed/arxiv/biorxiv) to categorize and summarize types of data cleaning applied.
   * or scrape and analyze code bases for cleaning operations
