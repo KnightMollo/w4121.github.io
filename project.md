@@ -11,7 +11,7 @@ title: E6998.005 Research Project
 
 * Project Teams    2/1 
 * Prospectus       2/11    (25%)
-* Poster Session   4/25    
+* Poster Session   4/25 4-6PM in DSI space
 * Report          4/30     (75%)
 
 #### Project Teams
@@ -23,7 +23,7 @@ Teams should consist of 1-3 people. In addition, if you have a project in mind, 
 * If you do not have a team, simply turn in a sheet with your name and we will match you up. 
 
 #### Prospectus
-Your reserach prospectus will contain an overview of the research problem, _your hypothesis_, first pass at related work, a description of how you plan to complete the project, and metrics to decide _if it worked_.   A good prospectus is basically the skeleton of the full report.  It is _highly recommended_ that you come to office hours to discuss project ideas before writing the prospectus.
+Your research prospectus will contain an overview of the research problem, _your hypothesis_, first pass at related work, a description of how you plan to complete the project, and metrics to decide _if it worked_.   A good prospectus is basically the skeleton of the full report.  It is _highly recommended_ that you come to office hours to discuss project ideas before writing the prospectus.
 
 Your prospectus should follow the example:
 
@@ -44,7 +44,7 @@ Your team will prepare and present a project poster at the end-of-course poster 
 
 **Submission**
 
-* Simply attend and present at the poster session.
+* Simply attend and present at the poster session on 4/25 4-6PM in the DSI space
 
 #### Report
 You will prepare a conference-style report on your project with **maximum length** of 15 pages (10 pt font or larger, one or two columns, 1 inch margins, single or double spaced -- more is not better.) Your report should expand upon your prospectus and introduce and motivate the problem your project addresses, describe related work in the area, discuss the elements of your solution, and present results that measure the behavior, performance, or functionality of your system (with comparisons to other related systems as appropriate.)
