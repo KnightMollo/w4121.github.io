@@ -26,9 +26,10 @@
 
 See Courseworks.  See [assignment policies](./policies).  Assignments due 11:59PM EST of due date.
 
-* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  3/3
-* Entity Resolution contest.  3/20
-* Graph analysis (?).  4/3
+<!--* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  3/3-->
+* Data Analysis.  TBA
+* Entity Resolution contest. TBA
+* Graph analysis.  TBA
 
 
 
@@ -46,7 +47,7 @@ See Courseworks.  See [assignment policies](./policies).  Assignments due 11:59P
 
 #### Textbooks
 
-Recommended but not required:
+Helpful but not required:
 
 1. Learning Spark.    
 <small>ISBN-10: 1449358624</small>
