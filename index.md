@@ -17,19 +17,24 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Course overview. 
 * 1/23:  Data Models and Cleaning  (Wu)
   * Why the relational data model? Why schemas? The ins and outs.
-  * Readings: [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf)     
-    [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) 
+  * Readings: 
+    * [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf)     
+    * [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) 
 * 1/30:  Cleaning and Integration (Wu)
-  * Readings: [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
-    [Data Wrangler](http://vis.stanford.edu/papers/wrangler) 
+  * Readings: 
+    * [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
+    * [Data Wrangler](http://vis.stanford.edu/papers/wrangler) 
 * 2/06: [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer) (Wu)
-  * Reading: [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
-    [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf), <br/> [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) 
+  * Reading: 
+    * [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
+    * [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
+    * [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) 
 * 2/13: Potourri (Wu)
   * Graph analysis/Scalable vis/ML 
-  * Readings: [ML](http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf) [in DBs](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)   
-    [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)      
-    [Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) 
+  * Readings: 
+    * [ML](http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf) [in DBs](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)   
+    * [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)      
+    * [Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) 
 * 2/20: Scaling and fault tolerance: challenges and techniques (Geambasu)
   * Failure models in large-scale distributed systems, consistency and coherence challenges, scaling challenges
   * Sharding and replication as the key techniques for scaling and fault tolerance.
