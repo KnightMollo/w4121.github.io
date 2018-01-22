@@ -17,21 +17,21 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Course overview. 
 * 1/23:  Data Models and Cleaning  (Wu)
   * Why the relational data model? Why schemas? The ins and outs.
-  * Readings: 
+  * Optional Readings: <small>Will introduce these in class</small> 
     * [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf)     
     * [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) 
 * 1/30:  Cleaning and Integration (Wu)
-  * Readings: 
+  * Optional Readings:<small>Will introduce these in class</small> 
     * [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
     * [Data Wrangler](http://vis.stanford.edu/papers/wrangler) 
 * 2/06: [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer) (Wu)
-  * Reading: 
+  * Optional Reading:<small>Will introduce these in class</small> 
     * [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
     * [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
     * [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) 
 * 2/13: Potourri (Wu)
   * Graph analysis/Scalable vis/ML 
-  * Readings: 
+  * Optional Readings:<small>Will introduce these in class</small> 
     * [ML](http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf) [in DBs](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)   
     * [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)      
     * [Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) 
