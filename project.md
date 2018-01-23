@@ -63,7 +63,7 @@ Good class projects can vary dramatically in complexity, scope, and topic. The o
 ## Project Suggestions
 
 
-The following are examples of possible projects -- they are by no means a complete list and **you are free to select your own projects**.  In general, projects can be of three varieties:
+The following are examples of possible projects -- they are by no means a complete list and **you are free to do whatever project you want.**  That's the point of extra-credit projects!  In general, projects can be of three varieties:
 
 1. Research project: model an unsolved problem, propose algorithmic solution, evaluate and report findings.
 2. Win: pick an existing useful application and a well-recognized metric (latency, prediction, etc) and win against the state of the art.
