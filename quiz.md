@@ -49,5 +49,6 @@ Describe in english what the following operations do:
 We have seen that having a schema is helpful because then data can be easily queried.  Before the solution described in the paper, Twitter's event messages DID adhere to a schema of `(category, message)`.  
 
 1. Even though the events had a schema, why did data scientists still have trouble analyzing logging data?  
-  * What was the source of this trouble, and why could Twitter not have prevented it from the very beginning?
+  * What was the source of this trouble?
+  * Why do you think Twitter let this happen?  Couldn't they have prevented it from the very beginning?
 1. What was the main solution to address the above troubles?
