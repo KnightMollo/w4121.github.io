@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# Non-graded Quiz for W4121
+## Non-graded Quiz for W4121
 
-## Data Modeling
+### Lec2: Data Modeling
 
 The point of data modeling is to think about what characteristics of the data you will need for your application.
 
@@ -38,7 +38,7 @@ Describe in english what each of the following operations will do:
 
 What are the operator symbols (greek symbols) for the above operations?
 
-Below, we will use `X_{y}` to denote that operator `X` has subscript `y`. Describe in english what the following operations do:
+Describe in english what the following operations do:
 
 * Π<sub>food</sub> σ<sub>time=12pm</sub>(feedings)
 * Π<sub>name</sub> (σ<sub>time=12pm</sub>(feedings) ⋈<sub>id=animal_id</sub> σ<sub>species=gorilla</sub>(animals))
