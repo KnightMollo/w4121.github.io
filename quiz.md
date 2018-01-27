@@ -4,6 +4,9 @@ layout: page
 
 ## W4121: Non-graded Quiz,  Wu's Lectures
 
+Answers will be posted around end of February.
+
+<a name="lec2"></a>
 ### Lec2: Data Modeling
 
 The point of data modeling is to think about what characteristics of the data you will need for your application.

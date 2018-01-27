@@ -20,6 +20,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Optional Readings: <small>Will introduce these in class</small> 
     * [What goes around comes around](https://github.com/w4111/syllabus/blob/master/reading/goesaroundcomesaround.pdf)     
     * [Unified Logging@Twitter](https://cs.uwaterloo.ca/~jimmylin/publications/Lee_etal_VLDB2012.pdf) 
+  * [Non-graded Quiz](./quiz#lec2)
 * 1/30:  Cleaning and Integration (Wu)
   * Optional Readings:<small>Will introduce these in class</small> 
     * [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
