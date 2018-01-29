@@ -69,6 +69,19 @@ The following are examples of possible projects -- they are by no means a comple
 2. Win: pick an existing useful application and a well-recognized metric (latency, prediction, etc) and win against the state of the art.
 3. Break and fix: implement a state of the art algorithm on real data, show that it doesn't actually work (results are poor, it's slow, etc), make it work.
 
+
+#### Dynamic Space Utilization
+
+There is no standard for how sensor-based data collection is used within smart buildings. One of the fundamental metrics to quantify is utilization – where, when, and how people occupy a space – upon which decisions of other building systems such as heating and cooling rely. While many organizations currently use static or even manual measurement, utilization sensors of several types are rapidly being implemented within the built environment.
+
+* Partner with researchers from CBRE to clean and transform real-world data from sensor feeds. Implement a series of tests to monitor outliers, errors, and noise of incoming data stream.
+* Define the functional unit for time series at different levels of accuracy. Recommend a set of measures derived empirically.
+* Explore visualizations based on developed measures to make information actionable. This may be an interactive set of diagrams/charts that react to user input, or could be a UI displayed in 2D/3D models.
+* See 
+  * [sample sensor CSV file](./files/data/sensorsample.csv)
+  * [related paper](./files/data/sensormodeling.pdf)
+
+
 #### Data Cleaning
 
 Understand how scientific articles use and talk about data.  Two possible directions:
