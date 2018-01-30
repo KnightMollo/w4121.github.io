@@ -9,6 +9,11 @@ An introduction to large-scale distributed systems with an emphasis on big-data 
 
 The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu (IBM TJ Watson researcher and CS affiliated faculty), and Eugene Wu (Assistant Prof. in CS). Geambasu will teach fundamental concepts of distributed systems, along with the tradeoffs that arise. Sahu will teach various distributed computation models, along with concrete examples of open-source big-data technologies and how they can be programmed. Wu will teach concepts of data modeling, storage, and visualization, along with the tradeoffs they raise.
 
+
+## Updates
+
+* Added link to [non-graded quiz](./quiz)
+
 ## Schedule
 
 * 1/16: [Introduction](./lectures/lec1.pdf)    (all)
