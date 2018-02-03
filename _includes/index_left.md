@@ -27,7 +27,7 @@
 See Courseworks as well.  See [assignment policies](./policies).  Assignments due 11:59PM EST of due date.
 
 <!--* [Data Analysis](https://www.instabase.com/Aligator/4121_csds_hw_public/fs/Instabase%20Drive/HW3/)  3/3-->
-* [Data Analysis](https://github.com/w4121/csds-material/tree/ewu-csds).   2/11
+* [Data Analysis](https://github.com/w4121/csds-material/tree/ewu-csds).   Due 2/11
 * Entity Resolution contest. TBA
 * Graph analysis.  TBA
 
