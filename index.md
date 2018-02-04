@@ -16,6 +16,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 
 ## Schedule
 
+{:.schedule}
 * 1/16: [Introduction](./lectures/lec1.pdf)    (all)
   * Why not single machine? 
   * Big-data challenges, datacenter structure, typical use cases and their requirements. 

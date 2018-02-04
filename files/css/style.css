@@ -143,6 +143,13 @@ div.joiner {
   clear: both;
 }
 
+ul.schedule {
+  padding-left: 0px;
+}
+ul.schedule > li {
+  list-style: none;
+}
+
 
 @media only screen and (max-width: 989px) { 
   body, p {
