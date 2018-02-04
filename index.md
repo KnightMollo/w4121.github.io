@@ -35,6 +35,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
     * [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
     * [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
     * [OLTP](http://nms.csail.mit.edu/~stavros/pubs/OLTP_sigmod08.pdf) 
+    * [Code Generation in Spark](https://databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html)
 * 2/13: Potourri (Wu)
   * Graph analysis/Scalable vis/ML 
   * Optional Readings:<small>Will introduce these in class</small> 
