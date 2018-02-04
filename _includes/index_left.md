@@ -1,11 +1,20 @@
 #### Staff
 
+Faculty
+
 * [Roxana Geambasu](https://roxanageambasu.github.io) (Instructor)   
   <small>OH by appointment</small>
 * Sambit Sahu (Instructor)   
   <small>OH by appointment</small>
 * [Eugene Wu](http://www.eugenewu.net) (Instructor)   
   <small>5-6pm Tues in 421 Mudd</small>
+
+Instructional Assistants   
+<small>OH in [TA/CA lounge](http://www.ia.cs.columbia.edu/tamap.shtml)</small>
+
+* Chris Rusnak    <small>Sat 3-4PM</small>
+* Chenqin Xu     <small>Thurs 4-5PM</small>
+* Qiao Zhang    <small>Fri 4-5PM</small>
 
 #### Information
 
