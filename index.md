@@ -30,7 +30,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Optional Readings:<small>Will introduce these in class</small> 
     * [Truth finding on the deep web](http://www.vldb.org/pvldb/vol6/p97-li.pdf)     
     * [Data Wrangler](http://vis.stanford.edu/papers/wrangler) 
-* 2/06: [Classic Query Processing and Fast Query Processing](https://w4121.github.io/lectures/qproc-primer) (Wu)
+* 2/06: Classic Query Processing and Fast Query Processing (Wu)
   * Optional Reading:<small>Will introduce these in class</small> 
     * [C-Store](http://db.csail.mit.edu/projects/cstore/vldb.pdf)        
     * [Col vs Row Stores](http://db.csail.mit.edu/projects/cstore/abadi-sigmod08.pdf)
