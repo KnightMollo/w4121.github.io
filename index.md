@@ -48,7 +48,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Failure models in large-scale distributed systems, consistency and coherence challenges, scaling challenges
   * Sharding and replication as the key techniques for scaling and fault tolerance.
   * Assigned reading: [RFC 667](https://columbia.github.io/ds2-class/papers/johnson-rfc677.pdf), 1975
-* 2/27: Distributed transactions on sharded databases (Geambasu)
+* 2/27: [Distributed transactions on sharded databases](./lectures/transactions-primer.pdf) (Geambasu)
   * Two-phase locking, write-ahead logs
   * Two-phase commit
 * 3/06: Replication architectures and protocols (Geambasu)
