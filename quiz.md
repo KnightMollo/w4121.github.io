@@ -4,7 +4,7 @@ layout: page
 
 ## W4121: Non-graded Quiz,  Wu's Lectures
 
-Answers will be posted around end of February.
+[Click Here For Solutions](./quiz_sol)
 
 <a name="lec2"></a>
 ### Lec2: Data Modeling
@@ -55,3 +55,8 @@ We have seen that having a schema is helpful because then data can be easily que
   * What was the source of this trouble?
   * Why do you think Twitter let this happen?  Couldn't they have prevented it from the very beginning?
 1. What was the main solution to address the above troubles?
+
+
+
+### Lec 3/4: Query Execution
+
