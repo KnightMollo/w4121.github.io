@@ -12,6 +12,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 
 ## Updates
 
+* Added [non-graded quiz solutions](./quiz_sol)
 * Added link to [non-graded quiz](./quiz)
 
 ## Schedule
