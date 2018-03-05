@@ -43,10 +43,12 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
     * [ML](http://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf) [in DBs](http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf)   
     * [Graphs in DBs](http://pages.cs.wisc.edu/~jignesh/publ/Grail.pdf)      
     * [Viz in DBs](http://sirrice.github.io/files/papers/ermac-vldb14.pdf) 
-* 2/20: Scaling and fault tolerance: challenges and techniques (Geambasu)
+
+* 2/20: [Scaling and fault tolerance: challenges and techniques](./lectures/ds-primer.pdf) (Geambasu)
   * Failure models in large-scale distributed systems, consistency and coherence challenges, scaling challenges
   * Sharding and replication as the key techniques for scaling and fault tolerance.
-* 2/27: Distributed transactions on sharded databases (Geambasu)
+  * Assigned reading: [RFC 667](https://columbia.github.io/ds2-class/papers/johnson-rfc677.pdf), 1975
+* 2/27: [Distributed transactions on sharded databases](./lectures/transactions-primer.pdf) (Geambasu)
   * Two-phase locking, write-ahead logs
   * Two-phase commit
 * 3/06: Replication architectures and protocols (Geambasu)
@@ -55,6 +57,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 * 3/13: NO CLASS.  Spring Break!
 * 3/20: The design and implementation of a scalable, fault tolerant storage system: Google's Spanner (Geambasu)
   * Reading/video: [Spanner](https://research.google.com/archive/spanner.html)
+
 * 3/27: Distributed computing models (Sahu)
   * HDFS, Hadoop basics
   * MapReuce Programming Model
