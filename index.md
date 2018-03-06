@@ -52,7 +52,7 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 * 2/27: [Distributed transactions on sharded databases](./lectures/transactions-primer.pdf) (Geambasu)
   * Two-phase locking, write-ahead logs
   * Two-phase commit
-* 3/06: Replication architectures and protocols (Geambasu)
+* 3/06: [Replication architectures and protocols](./lectures/consensus-primer.pdf) (Geambasu)
   * Primary-secondary architectures, chain replication, leader election protocols
   * Consistency and the ordering of events in a distributed system. Importance of time.
 * 3/13: NO CLASS.  Spring Break!
