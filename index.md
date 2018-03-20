@@ -56,7 +56,8 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
   * Primary-secondary architectures, chain replication, leader election protocols
   * Consistency and the ordering of events in a distributed system. Importance of time.
 * 3/13: NO CLASS.  Spring Break!
-* 3/20: The design and implementation of a scalable, fault tolerant storage system: Google's Spanner (Geambasu)
+* 3/20: [The design and implementation of a scalable, fault tolerant storage
+  system: Google's Spanner](./lectures/spanner.pdf) (Geambasu)
   * Reading/video: [Spanner](https://research.google.com/archive/spanner.html)
 
 * 3/27: Distributed computing models (Sahu)
