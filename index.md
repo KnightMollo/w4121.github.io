@@ -55,11 +55,12 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 * 2/27: [Distributed transactions on sharded databases](./lectures/transactions-primer.pdf) (Geambasu)
   * Two-phase locking, write-ahead logs
   * Two-phase commit
-* 3/06: Replication architectures and protocols (Geambasu)
+* 3/06: [Replication architectures and protocols](./lectures/consensus-primer.pdf) (Geambasu)
   * Primary-secondary architectures, chain replication, leader election protocols
   * Consistency and the ordering of events in a distributed system. Importance of time.
 * 3/13: NO CLASS.  Spring Break!
-* 3/20: The design and implementation of a scalable, fault tolerant storage system: Google's Spanner (Geambasu)
+* 3/20: [The design and implementation of a scalable, fault tolerant storage
+  system: Google's Spanner](./lectures/spanner.pdf) (Geambasu)
   * Reading/video: [Spanner](https://research.google.com/archive/spanner.html)
 
 * 3/27: Distributed computing models (Sahu)
