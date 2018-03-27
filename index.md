@@ -12,6 +12,9 @@ The course is co-taught by Roxana Geambasu (Associate Prof. in CS), Sambit Sahu 
 
 ## Updates
 
+* Added student-written lecture notes for:
+  * [relational model](./files/notes/lecture_notes_1.pptx). Direct your thanks to Kathy Lin (kl2615), Xiaohui Guo (xg2225), Aria Kumar (sk4345)
+  * [query processing + optimization](./files/notes/lecture_notes_2.pdf).  Direct your thanks to Yijia Chen (yc3425), Haotian Zeng (hz2494), Yiwen Zhang (yz3310)
 * Added [non-graded quiz solutions](./quiz_sol)
 * Added link to [non-graded quiz](./quiz)
 
