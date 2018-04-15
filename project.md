@@ -11,8 +11,8 @@ title: E6998.005 Research Project
 
 * Project Teams    2/1 
 * Prospectus       2/11    (25%)
-* Poster Session   4/25 4-6PM in DSI space
-* Report          4/30     (75%)
+* Presentation     4/25 4-6PM in 227 Mudd
+* Report           4/30     (75%)
 
 #### Project Teams
 
