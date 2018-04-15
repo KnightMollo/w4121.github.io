@@ -54,7 +54,8 @@ Because this report is the primary deliverable upon which you will be graded, **
 **Submission**
 
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
-2. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/96Slbbv9un54UW919ZYM)
+2. Make sure your UNIs are included in the first page of the report (so that I can assign credit appropriately!)
+3. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/96Slbbv9un54UW919ZYM)
 
 #### What is Expected
 
