@@ -12,7 +12,7 @@ title: E6998.005 Research Project
 * Project Teams    2/1 
 * Prospectus       2/11    (25%)
 * Presentation     4/25 4-6PM in 227 Mudd
-* Report           4/30     (75%)
+* Report           <strike>4/30</strike>5/2     (75%)
 
 #### Project Teams
 
@@ -55,7 +55,7 @@ Because this report is the primary deliverable upon which you will be graded, **
 
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
 2. Make sure your UNIs are included in the first page of the report (so that I can assign credit appropriately!)
-3. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/96Slbbv9un54UW919ZYM)
+3. [Upload the file by 5/2 11:59PM EST](https://www.dropbox.com/request/96Slbbv9un54UW919ZYM)
 
 #### What is Expected
 
